@@ -1,3 +1,6 @@
 revisi pertama
 
 saya sedang belajar menggunkan git di hari pertama.
+saya masuk kiranatama 1 september.
+
+saya sekarang melakukan perubahan, dibranch baru.
